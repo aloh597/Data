@@ -1,0 +1,29 @@
+row,col,plant,recipe,percent_manure,survived,fruit_weight
+1,1,cherry,Recipe 1,20,yes,43.62807204772355
+2,1,cherry,Recipe 1,20,yes,40.5250060703334
+6,1,cherry,Recipe 1,20,yes,34.18330004537595
+7,1,cherry,Recipe 1,20,yes,27.201632171224237
+1,2,cherry,Control,0,yes,11.74844426357083
+2,2,cherry,Recipe 4,80,yes,51.56398611313922
+3,2,cherry,Recipe 4,80,yes,50.632830485687506
+4,2,cherry,Recipe 4,80,yes,51.47154595871922
+6,2,cherry,Recipe 4,80,yes,40.05647127135838
+7,2,cherry,Control,0,yes,4.519544879167615
+1,3,cherry,Recipe 2,40,yes,75.91159196051167
+2,3,cherry,Recipe 3,60,yes,80.64629377317023
+6,3,cherry,Recipe 3,60,yes,61.23498699013801
+7,3,cherry,Recipe 2,40,yes,47.66953021134877
+1,5,cherry,Recipe 1,20,yes,76.95085366270484
+2,5,cherry,Recipe 1,20,yes,75.79922076761392
+6,5,cherry,Recipe 1,20,yes,49.38994474156588
+7,5,cherry,Recipe 1,20,yes,42.2972528911512
+1,6,cherry,Control,0,yes,13.982917423213916
+2,6,cherry,Recipe 4,80,yes,87.46723403480979
+3,6,cherry,Recipe 4,80,yes,83.3197108555568
+5,6,cherry,Recipe 4,80,yes,68.65113644592648
+6,6,cherry,Recipe 4,80,yes,60.112262446885595
+7,6,cherry,Control,0,yes,5.809017415968619
+1,7,cherry,Recipe 2,40,yes,129.9431886048602
+2,7,cherry,Recipe 3,60,yes,127.25602614662397
+6,7,cherry,Recipe 3,60,yes,87.30668608950128
+7,7,cherry,Recipe 2,40,yes,70.44769090044024
